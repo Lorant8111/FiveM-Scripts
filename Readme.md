@@ -11,3 +11,11 @@ Database:
 Egy adatbázis script, ami hozzáadja a játékosok steamid-ját az adatbázishoz.
 
 Hi, A database script that adds the players' steamid to the database
+
+-------------------------------------
+
+NoNPC:
+
+Ez a script eltünteti az NPC-ket
+
+This script remove the NPCs
