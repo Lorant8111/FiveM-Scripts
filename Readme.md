@@ -27,3 +27,11 @@ Loading Screen:
 Egy szimpla, egyszerű loading screen.
 
 This is a simple loading screen.
+
+-------------------------------------
+
+Hud:
+
+Egy letisztult hud.
+
+Just a clean hud.
